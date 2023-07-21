@@ -4,6 +4,12 @@
   animation: gradient-animation 18s ease infinite;
 }
 
+#title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
