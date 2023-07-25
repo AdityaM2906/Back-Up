@@ -1,0 +1,9 @@
+h1{
+    color: beige;
+}
+
+.gradient-background {
+  background: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
