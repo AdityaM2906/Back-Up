@@ -1,0 +1,16 @@
+.huge{
+    font-size: 10rem;
+    color: #FF7B54;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+.mard{
+    margin: 100px;
+}
+
+img{
+    width: 200px;
+    display: block;
+    margin: 50px;
+}
