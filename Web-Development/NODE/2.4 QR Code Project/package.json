@@ -1,0 +1,16 @@
+{
+  "name": "qr-gen",
+  "version": "1.0.0",
+  "description": "This in my first node project for generating qrs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Meshram",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  }
+}

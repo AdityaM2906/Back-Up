@@ -1,15 +1,12 @@
-li{
+#external{
     color: red;
 }
 
-.blue{
-    color: blue;
+
+h2{
+    color: magenta;
 }
 
-#green{
-    color: green;
-}
-
-li[spellcheck]{
-    color: purple;
+h3[draggable]{
+    color: grey;
 }
