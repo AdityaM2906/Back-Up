@@ -1,3 +1,10 @@
-ol > li#my-name{
-    color: red;
+div{
+    background-color: red;
+    position: fixed;
+    left: 50px;
+    top: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 100px;
+    width: 100px;
 }
