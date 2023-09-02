@@ -1,6 +1,28 @@
-h2{
-    color: #900C3F;
-}
 h1{
-    color: rgb(200,5,200)
+    display: inline;
+}
+
+.flag{
+    background-color: red;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+}
+
+.flag2{
+    background-color: magenta;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+
+footer{
+    clear: left;
 }
