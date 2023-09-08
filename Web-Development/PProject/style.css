@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-image: url(./generalimg.avif);
+    color: antiquewhite;
+}
+
+.editorimg{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.backg{
+    background-color: #f36262;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #d50c0c, #f36262), repeating-radial-gradient(circle at center center, #d50c0c, #d50c0c, 16px, transparent 32px, transparent 16px);
+    background-blend-mode: multiply;
+}
+
+.heading{
+    font-family: 'Ruwudu', serif;
+}
+
+.contactinfo{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+
+.poster{
+    height: 270px ;
+    width: 186px ;
+}
