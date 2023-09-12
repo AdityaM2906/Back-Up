@@ -1,8 +1,23 @@
-html{
-    font-size: 80px;
+#red{
+    height: 25vh;
+    width: 100%;
+    background-color: red;
 }
 
-h1{
-    font-size: 2em;
-    font-family: 'Noto Sans JP', sans-serif;
+#green{
+    height: 25vh;
+    width: 100%;
+    background-color: green;
+}
+
+#orange{
+    height: 25vh;
+    width: 100%;
+    background-color: orange;
+}
+
+#blue{
+    height: 25vh;
+    width: 100%;
+    background-color: blue;
 }
