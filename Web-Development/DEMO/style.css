@@ -1,0 +1,32 @@
+#headone,
+.headtwo,
+h4 {
+  color: blueviolet;
+}
+
+html > body {
+  text-align: center;
+}
+
+body p {
+  color: firebrick;
+}
+
+h1.head#headone {
+  color: aqua;
+}
+
+body h4[spellcheck]#red {
+  color: red;
+}
+
+body {
+  background: #e9b824;
+  background: -webkit-linear-gradient(
+    0deg,
+    #e9b824 0%,
+    #ee9322 50%,
+    #d83f31 100%
+  );
+  background: linear-gradient(0deg, #e9b824 0%, #ee9322 50%, #d83f31 100%);
+}
