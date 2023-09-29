@@ -1,32 +1,16 @@
-#headone,
-.headtwo,
-h4 {
-  color: blueviolet;
+#heading{
+  color: rebeccapurple;
+  font-size: 10rem;
+  font-weight:100;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-html > body {
-  text-align: center;
+#hash{
+  color:#F31559;
+  font-size: 10em;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
-body p {
-  color: firebrick;
-}
-
-h1.head#headone {
-  color: aqua;
-}
-
-body h4[spellcheck]#red {
-  color: red;
-}
-
-body {
-  background: #e9b824;
-  background: -webkit-linear-gradient(
-    0deg,
-    #e9b824 0%,
-    #ee9322 50%,
-    #d83f31 100%
-  );
-  background: linear-gradient(0deg, #e9b824 0%, #ee9322 50%, #d83f31 100%);
+#RGB{
+  color: rgb(218, 169, 10);
 }
