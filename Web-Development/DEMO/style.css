@@ -1,15 +1,12 @@
-div{
-    height: 200px;
-    width: 200px;
-    background-color: red;
+.flex-container {
+  display: flex;
+  gap: 10px;
 }
 
-@media (max-width: 600px)and(min-width:1200px){
-
-    div{
-        height: 100px;
-        width: 100px;
-        background-color: blue;
-    }
-    
+.flex-item {
+  background-color: darkgreen;
+  height: 100px;
+  width: 100px;
+  color: antiquewhite;
+  flex-grow: 1;
 }
