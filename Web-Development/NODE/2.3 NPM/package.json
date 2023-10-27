@@ -1,7 +1,7 @@
 {
-  "name": "first-node",
+  "name": "learning-npm",
   "version": "1.0.0",
-  "description": "I am learning node.",
+  "description": "This is my second revision for node and npm",
   "main": "index.js",
   "type": "module",
   "scripts": {

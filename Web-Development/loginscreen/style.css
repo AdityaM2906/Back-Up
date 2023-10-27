@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: #8e05c2;
+  font-size: 5vh;
+  font-weight: 700;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.formElement {
+  margin-bottom: 3%;
+}
+
+label {
+  display: block;
+  font-family: "Satisfy", cursive;
+}
+
+input {
+  height: 30%;
+  width: 65vw;
+}
+
+.btn {
+  height: 10%;
+  width: 25vw;
+  background-color: antiquewhite;
+  color: #8e05c2;
+  font-size: 4vh;
+  font-family: "Satisfy", cursive;
+}

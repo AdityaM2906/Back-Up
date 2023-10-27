@@ -1,7 +1,10 @@
 import express from "express";
 const app = express();
-const port = 3000;
 
-app.listen(port,() =>{
-    console.log(`Server is active on port ${port}`)
-})
+app.get("/", (req, res) => {
+  res.send("This is the home page");
+});
+
+app.listen(3000, () => {
+  console.log("This server is lives");
+});

@@ -1,7 +1,7 @@
 {
-  "name": "qr-gen",
+  "name": "qr-code",
   "version": "1.0.0",
-  "description": "This in my first node project for generating qrs",
+  "description": "This is a qr code creator",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Aditya Meshram",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.10",
+    "inquirer": "^9.2.11",
     "qr-image": "^3.2.0"
   }
 }
